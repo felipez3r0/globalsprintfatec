@@ -1,6 +1,8 @@
 # globalsprintfatec
 Apresentação Github
 
+GIT: versionando códigos com GITHUB.
+
 - João Vitor Astori Saletti
 - Ian Rotondo Bagliotti
 - Philipp Garcia Nascimento

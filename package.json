@@ -1,0 +1,24 @@
+{
+  "name": "globalsprintfatec",
+  "version": "1.0.0",
+  "description": "Apresentação Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewserati/globalsprintfatec.git"
+  },
+  "author": "Andrew Serati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewserati/globalsprintfatec/issues"
+  },
+  "homepage": "https://github.com/andrewserati/globalsprintfatec#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
